@@ -1,0 +1,6 @@
+[submodule "openai-mcp-client"]
+	path = openai-mcp-client
+	url = https://github.com/handoing/openai-mcp-client
+[submodule "open-browser-mcp-server"]
+	path = open-browser-mcp-server
+	url = https://github.com/handoing/open-browser-mcp-server
