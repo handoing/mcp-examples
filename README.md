@@ -20,4 +20,4 @@ $ node openai-mcp-client/index.js open-browser-mcp-server/index.js
 
 ## 演示文稿
 
-[标题](链接)
+[《走进Agent之模型上下文协议（MCP）》](https://www.canva.cn/design/DAGhhFzv2RQ/3Q7w-PHMExY8iXK4JgrA3Q/edit?utm_content=DAGhhFzv2RQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
